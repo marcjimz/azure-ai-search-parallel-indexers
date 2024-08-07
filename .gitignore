@@ -1,0 +1,4 @@
+.work-folder-info
+.DS_Store
+src/config.py
+*__pycache__*
