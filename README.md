@@ -34,8 +34,8 @@ Located in `src/indexes/IndexManagement.py`, this class is responsible for creat
 - Requests library
 - Jupyter Notebook
 - Azure Subscription
-- Azure AI Search
-- Azure Blob Storage
+- Azure AI Search (Standard Tier)
+- Azure Data Lake Gen2 Storage (Hierarchy Enabled)
 
 ### Installation
 

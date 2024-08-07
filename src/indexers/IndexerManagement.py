@@ -76,6 +76,7 @@ class IndexerManagement:
         if start_times and end_times:
             total_time = max(end_times) - min(start_times)
             print(f"Total time for all indexers to run: {total_time}")
+            return total_time
         else:
             print("Could not calculate total run time.")
 
