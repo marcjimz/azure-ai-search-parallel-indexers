@@ -46,6 +46,10 @@ pip install azure-storage-blob requests
 
 ## Example Usage
 
+## Configuration Setup
+
+Copy and update the `src/config.py.tpl` file, ultimately saving it to `src/config.py` with your values.
+
 ### Uploading Files and Managing Indexers
 
 The main.py script demonstrates how to use these classes to upload files, create data sources and indexers, and calculate indexer run times.
