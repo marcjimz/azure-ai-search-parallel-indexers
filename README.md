@@ -1,4 +1,4 @@
-# Azure Blob Storage Management and Indexing
+# Parallel Indexers for Performance
 
 This is a repository that quickly demonstrates how you can speed up performance utilizing many indexes on partitioned data to expedite ingestion into AI Search. This is not a repository advocating on one strategy (pull) over another (push), but merely an example of how you can achieve indexing performance. For more information on best practices, please read the [Azure AI Search guide on Indexing Large Datasets](https://learn.microsoft.com/en-us/azure/search/search-howto-large-index)
 
